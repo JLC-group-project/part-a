@@ -1,4 +1,7 @@
+
+
 ## R1
+
 #### Purpose
 The purpose of this web application is to enable users to order online using their smartphone or whatever device they are using. The end user will have an option of paying using their credit card. Since covid 19 our society has become more online oriented, there is now a more need for an online ordering system like the one we are creating.
 
@@ -76,9 +79,75 @@ Furthermore, this app will support admin functions. The store owner or admin sta
 - As a user, I want to pay online using a credit card so that I don’t have to use cash.
 - As a user I want a confirmation page or email to show everything I ordered and their details so that I can show them to the store owner when I pick them up.
 
-## R6: trello board
-![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
+## R5 Wireframe--Created with Figma
+
+#### User Side
+
+**Home Page User**
+
+![HomePageUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/HomePageUser.png)
+
+**Menu User**
+
+![MenuUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/MenuUser.png)
+
+**About Us User**
+
+![AboutUs](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/AboutUs.png)
+
+**Checkout User**
+
+![CheckOutUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/CheckOutUser.png)
+
+**Payment User**
+
+![PaymentUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/PaymentUser.png)
+
+#### Admin Side
+
+**Sign In admin**
+
+![SignInAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/SignInAdmin.png)
+
+**Forget Password Admin**
+
+![ForgetPasswordAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/ForgetPasswordAdmin.png)**Change Password Admin**
+
+![ChangePasswordAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/ChangePasswordAdmin.png)
+
+**Home Page Admin**
+
+![HomePageAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/HomePageAdmin.png)
+
+**Menu Admin**
+
+![MenuAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/MenuAdmin.png)
+
+**About Us Admin**
+
+![AboutUsAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/AboutUsAdmin.png)
+
+**Create Edit Menu Admin**
+
+![Create_EditAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Create_EditAdmin.png)
+
+**Orders Admin**!
+
+[OrdersAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrdersAdmin.png)![OrdersAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrdersAdmin.png)
+
+**Order History Admin**
+
+![OrderHistoryAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrderHistoryAdmin.png)
+
+
+
+## R6: Trello board
+
+![Trello1](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello1.png)
+![Trello2](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello2.png)
+
+![Trello3](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello3.png)
+
+![Trello4](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello4.png)
+
+![Trello5](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello5.png)
