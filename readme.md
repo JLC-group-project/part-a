@@ -75,3 +75,10 @@ Furthermore, this app will support admin functions. The store owner or admin sta
 - As a user I want to view an existing item from the cart so that I can see the details of what I ordered in case I forgot
 - As a user, I want to pay online using a credit card so that I don’t have to use cash.
 - As a user I want a confirmation page or email to show everything I ordered and their details so that I can show them to the store owner when I pick them up.
+
+## R6: trello board
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
+![alt text](5.png)
