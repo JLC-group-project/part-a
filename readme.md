@@ -50,6 +50,21 @@ Furthermore, this app will support admin functions. The store owner or admin sta
     - Back-end: Heroku
     - Database: Mongo Atlas
 
+## R2 Dataflow Diagram
+
+### Admin Login
+![Data Flow Diagram for Admin Logins](/src/DataFlow_Login.jpg)
+
+### Admin Functionality
+![Data Flow Diagram for Admin Functionality](/src/DataFlow_Admin.jpg)
+
+### User Functionality
+![Data Flow Diagram for User Functionality](/src/DataFlow_User.jpg)
+
+## R3 Application Architecture Diagram
+
+![Application Architecture Diagram](/src/Application-Architecture-Diagram.jpg)
+
 
 ## R4 User stories
 ### Store owner
