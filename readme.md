@@ -1,9 +1,10 @@
 ## R1
 
 #### Purpose
-The purpose of this web application is to enable users to order online using their smartphone or whatever device they are using. The end user will have an option of paying using their credit card. Since covid 19 our society has become more online oriented, there is now a more need for an online ordering system like the one we are creating.
+The purpose of this web application is to enable end-users to order online on their desktops or smart devices and allow them to make purchases with an online payment system. Due to Covid-19, society has adapted our day-to-day activities to be more online-oriented, and therefore there is a bigger emphasis on web applications to have an online ordering system. 
+ 
+This app gives store owners administrative functionality to create, edit, or delete menu items for their menu. Furthermore, they can also view the current orders, the history of all orders and print receipts. Customers usually would like to see what their product would look like before ordering and therefore this app also supports image uploading.
 
-Furthermore, this app will support admin functions. The store owner or admin staff can use this app to create, update, delete or edit their menu. Nowadays people like to see what they are ordering first, so this app supports image uploads. As an admin, you can also view the order history, print out receipts and more. 
 
 #### Functionality / features
 - View the menu
@@ -34,19 +35,28 @@ Furthermore, this app will support admin functions. The store owner or admin sta
 - Customers who want to order their food or drinks online 
 
 #### Tech stack
-- Payment system (Stripe API)
-- User authentication (PassportJs)
-- Roles (admins, editors)
-    - Admin can create, edit and delete items
-    - Editors can only edit menu items
-- Authorisation 
-- Email (NodeMailer)
-- CSS Framework (Tailwind CSS)
-- Image Uploads (Cloudinary)
+- MERN Stack
+    - Front-End
+        - ReactJS
+        - CSS Framework (Tailwind CSS)
+ 
+    - Back-End
+        - ExpressJS
+        - NodeJS
+- Database
+    - MongoDB
+- NPM Libraries
+    - User authentication (PassportJs)
+    - JSON Web Token
+    - Email (NodeMailer)
+- API
+    - Payment system (Stripe API)
+    - Image Uploads (Cloudinary)
 - Deployment
     - Front-End: Netlify
     - Back-end: Heroku
     - Database: Mongo Atlas
+
 
 ## R2 Dataflow Diagram
 
