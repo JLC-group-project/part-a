@@ -76,30 +76,45 @@ This app gives store owners administrative functionality to create, edit, or del
 
 ## R4 User stories
 ### Store owner
+#### View orders:
 - As a store owner, I want to see an order list of all orders coming in so I can prepare my order accordingly.
+#### Login:
 - As a store owner I want to login to my admin with a username and password so that I can securely update my menus and etc
 - As a store owner I want to have access to a forgot password feature so that I can recover my password in case I forgot
+
+#### Edit home and about us page:
 - As a store owner I want to edit my home page so that my customers can feel welcome when they visit my website and get some details about our store like opening hours
 - As a store owner I want to have a about us page so that I can provide some contact information for customers
 - As a store owner I want to create new menu items and upload pictures associated with them so that my customers can see what we offer and help them decide what to order
+
+#### Create new menu items:
 - As a store owner I want to select a category for my menu items so that my this information can help my customers to narrow down their selection
 - As a store owner I want to update existing menu items so that I keep the menu up to date
 - As a store owners, I want to delete existing menu items so that I can keep up to date with what my customers want
 - As a store owners, I want to view my current menus so that I can see what we offer and how they are laid out on the website
+
+#### Order history:
 - As a store owner, I want to view a history of all orders so that I can keep a record for tax time
 - As a store owner, I want to be able to print receipts so that I can use them to assist a customer
 
 
 ### End user
+#### Order online:
 - As a user, I want to order items using my smartphone, tablet or pc so that my order will be ready as soon as I go to the store
 - As a user, I want to view all menu items before ordering so that it can help me decide which menu item I want
+
+#### View orders:
 - As a user, I want to select menu items based on their category so that it can help me narrow down menu item based on their category
 - As a user, I want to add a item to a shopping cart so that I don’t forget what I already ordered
+
+#### Shopping cart:
 - As a user, I want to view my shopping cart at anytime so that I can see what I have already ordered
 - As a user I want to edit my menu items from the cart so that in case I change my mind I can still edit it.
 - As a user I want to delete an existing item from the cart so that if I decide I don’t want a particular item I can still delete it
 - As a user I want to view an existing item from the cart so that I can see the details of what I ordered in case I forgot
 - As a user, I want to pay online using a credit card so that I don’t have to use cash.
+
+#### Confirmation email
 - As a user I want a confirmation page or email to show everything I ordered and their details so that I can show them to the store owner when I pick them up.
 
 ## R5 Wireframe--Created with Figma
