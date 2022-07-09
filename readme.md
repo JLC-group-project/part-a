@@ -1,5 +1,3 @@
-
-
 ## R1
 
 #### Purpose
@@ -100,69 +98,72 @@ Furthermore, this app will support admin functions. The store owner or admin sta
 
 **Home Page User**
 
-![HomePageUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/HomePageUser.png)
+![HomePageUser](/src/HomePageUser.png)
 
 **Menu User**
 
-![MenuUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/MenuUser.png)
+![MenuUser](/src/MenuUser.png)
 
 **About Us User**
 
-![AboutUs](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/AboutUs.png)
+![AboutUs](/src/AboutUs.png)
 
 **Checkout User**
 
-![CheckOutUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/CheckOutUser.png)
+![CheckOutUser](/src/CheckOutUser.png)
 
 **Payment User**
 
-![PaymentUser](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/PaymentUser.png)
+![PaymentUser](/src/PaymentUser.png)
 
 #### Admin Side
 
 **Sign In admin**
 
-![SignInAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/SignInAdmin.png)
+![SignInAdmin](/src/SignInAdmin.png)
 
 **Forget Password Admin**
 
-![ForgetPasswordAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/ForgetPasswordAdmin.png)**Change Password Admin**
+![ForgetPasswordAdmin](/src/ForgetPasswordAdmin.png)
 
-![ChangePasswordAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/ChangePasswordAdmin.png)
+**Change Password Admin**
+
+![ChangePasswordAdmin](/src/ChangePasswordAdmin.png)
 
 **Home Page Admin**
 
-![HomePageAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/HomePageAdmin.png)
+![HomePageAdmin](/src/HomePageAdmin.png)
 
 **Menu Admin**
 
-![MenuAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/MenuAdmin.png)
+![MenuAdmin](/src/MenuAdmin.png)
 
 **About Us Admin**
 
-![AboutUsAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/AboutUsAdmin.png)
+![AboutUsAdmin](/src/AboutUsAdmin.png)
 
 **Create Edit Menu Admin**
 
-![Create_EditAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Create_EditAdmin.png)
+![Create_EditAdmin](/src/Create_EditAdmin.png)
 
 **Orders Admin**!
 
-[OrdersAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrdersAdmin.png)![OrdersAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrdersAdmin.png)
+![OrdersAdmin](/src/OrdersAdmin.png)
 
 **Order History Admin**
 
-![OrderHistoryAdmin](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/OrderHistoryAdmin.png)
+![OrderHistoryAdmin](/src/OrderHistoryAdmin.png)
 
 
 
 ## R6: Trello board
 
-![Trello1](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello1.png)
-![Trello2](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello2.png)
+![Trello1](/src/Trello1.png)
 
-![Trello3](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello3.png)
+![Trello2](/src/Trello2.png)
 
-![Trello4](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello4.png)
+![Trello3](/src/Trello3.png)
 
-![Trello5](/Users/leslie/Desktop/Coder-Assignment/term_3/CoderCafe/part-a/src/Trello5.png)
+![Trello4](/src/Trello4.png)
+
+![Trello5](/src/Trello5.png)
