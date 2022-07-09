@@ -77,7 +77,7 @@ This app gives store owners administrative functionality to create, edit, or del
 ## R4 User stories
 ### Store owner
 #### View orders:
-- As a store owner, I want to see an order list of all orders coming in so I can prepare my order accordingly.
+- As a store owner I want to see an order list of all orders coming in so I can prepare my order accordingly.
 #### Login:
 - As a store owner I want to login to my admin with a username and password so that I can securely update my menus and etc
 - As a store owner I want to have access to a forgot password feature so that I can recover my password in case I forgot
