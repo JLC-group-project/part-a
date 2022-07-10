@@ -61,17 +61,17 @@ This app gives store owners administrative functionality to create, edit, or del
 ## R2 Dataflow Diagram
 
 ### Admin Login
-![Data Flow Diagram for Admin Logins](/src/DataFlow_Login.jpg)
+![Data Flow Diagram for Admin Logins](/docs/DataFlow_Login.jpg)
 
 ### Admin Functionality
-![Data Flow Diagram for Admin Functionality](/src/DataFlow_Admin.jpg)
+![Data Flow Diagram for Admin Functionality](/docs/DataFlow_Admin.jpg)
 
 ### User Functionality
-![Data Flow Diagram for User Functionality](/src/DataFlow_User.jpg)
+![Data Flow Diagram for User Functionality](/docs/DataFlow_User.jpg)
 
 ## R3 Application Architecture Diagram
 
-![Application Architecture Diagram](/src/Application-Architecture-Diagram.jpg)
+![Application Architecture Diagram](/docs/Application-Architecture-Diagram.jpg)
 
 
 ## R4 User stories
@@ -123,72 +123,72 @@ This app gives store owners administrative functionality to create, edit, or del
 
 **Home Page User**
 
-![HomePageUser](/src/HomePageUser.png)
+![HomePageUser](/docs/HomePageUser.png)
 
 **Menu User**
 
-![MenuUser](/src/MenuUser.png)
+![MenuUser](/docs/MenuUser.png)
 
 **About Us User**
 
-![AboutUs](/src/AboutUs.png)
+![AboutUs](/docs/AboutUs.png)
 
 **Checkout User**
 
-![CheckOutUser](/src/CheckOutUser.png)
+![CheckOutUser](/docs/CheckOutUser.png)
 
 **Payment User**
 
-![PaymentUser](/src/PaymentUser.png)
+![PaymentUser](/docs/PaymentUser.png)
 
 #### Admin Side
 
 **Sign In admin**
 
-![SignInAdmin](/src/SignInAdmin.png)
+![SignInAdmin](/docs/SignInAdmin.png)
 
 **Forget Password Admin**
 
-![ForgetPasswordAdmin](/src/ForgetPasswordAdmin.png)
+![ForgetPasswordAdmin](/docs/ForgetPasswordAdmin.png)
 
 **Change Password Admin**
 
-![ChangePasswordAdmin](/src/ChangePasswordAdmin.png)
+![ChangePasswordAdmin](/docs/ChangePasswordAdmin.png)
 
 **Home Page Admin**
 
-![HomePageAdmin](/src/HomePageAdmin.png)
+![HomePageAdmin](/docs/HomePageAdmin.png)
 
 **Menu Admin**
 
-![MenuAdmin](/src/MenuAdmin.png)
+![MenuAdmin](/docs/MenuAdmin.png)
 
 **About Us Admin**
 
-![AboutUsAdmin](/src/AboutUsAdmin.png)
+![AboutUsAdmin](/docs/AboutUsAdmin.png)
 
 **Create Edit Menu Admin**
 
-![Create_EditAdmin](/src/Create_EditAdmin.png)
+![Create_EditAdmin](/docs/Create_EditAdmin.png)
 
 **Orders Admin**!
 
-![OrdersAdmin](/src/OrdersAdmin.png)
+![OrdersAdmin](/docs/OrdersAdmin.png)
 
 **Order History Admin**
 
-![OrderHistoryAdmin](/src/OrderHistoryAdmin.png)
+![OrderHistoryAdmin](/docs/OrderHistoryAdmin.png)
 
 
 
 ## R6: Trello board
 
-![Trello1](/src/Trello1.png)
+![Trello1](/docs/Trello1.png)
 
-![Trello2](/src/Trello2.png)
+![Trello2](/docs/Trello2.png)
 
-![Trello3](/src/Trello3.png)
+![Trello3](/docs/Trello3.png)
 
-![Trello4](/src/Trello4.png)
+![Trello4](/docs/Trello4.png)
 
-![Trello5](/src/Trello5.png)
+![Trello5](/docs/Trello5.png)
